@@ -4,4 +4,4 @@
   <p align="center">
     i am a moth , who just wants to share your light
     <p align="center">
-   <sub><a href="https://github.com/drdoctorg"> Taken  T 🩵 </a>   
+  
